@@ -1,0 +1,3 @@
+# CSharpPrimeFinder
+
+it finds primes
