@@ -61,8 +61,7 @@ class Primer
 
     static bool IsPrime(int number)
     {
-        int test;
-        test = number - 1;
+        int test = (int)Math.Floor((decimal)number/2);
         while (test > 1)
         {
 
