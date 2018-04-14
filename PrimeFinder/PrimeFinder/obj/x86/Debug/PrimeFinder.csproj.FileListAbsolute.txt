@@ -1,0 +1,5 @@
+/Users/Shuker/Projects/PrimeFinder/PrimeFinder/bin/Debug/PrimeFinder.exe
+/Users/Shuker/Projects/PrimeFinder/PrimeFinder/bin/Debug/PrimeFinder.pdb
+/Users/Shuker/Projects/PrimeFinder/PrimeFinder/obj/x86/Debug/PrimeFinder.csproj.CoreCompileInputs.cache
+/Users/Shuker/Projects/PrimeFinder/PrimeFinder/obj/x86/Debug/PrimeFinder.exe
+/Users/Shuker/Projects/PrimeFinder/PrimeFinder/obj/x86/Debug/PrimeFinder.pdb
