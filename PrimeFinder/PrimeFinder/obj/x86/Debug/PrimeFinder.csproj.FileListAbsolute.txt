@@ -3,3 +3,8 @@
 /Users/Shuker/Projects/PrimeFinder/PrimeFinder/obj/x86/Debug/PrimeFinder.csproj.CoreCompileInputs.cache
 /Users/Shuker/Projects/PrimeFinder/PrimeFinder/obj/x86/Debug/PrimeFinder.exe
 /Users/Shuker/Projects/PrimeFinder/PrimeFinder/obj/x86/Debug/PrimeFinder.pdb
+E:\github\CSharpPrimeFinder\PrimeFinder\PrimeFinder\bin\Debug\PrimeFinder.exe
+E:\github\CSharpPrimeFinder\PrimeFinder\PrimeFinder\bin\Debug\PrimeFinder.pdb
+E:\github\CSharpPrimeFinder\PrimeFinder\PrimeFinder\obj\x86\Debug\PrimeFinder.csprojResolveAssemblyReference.cache
+E:\github\CSharpPrimeFinder\PrimeFinder\PrimeFinder\obj\x86\Debug\PrimeFinder.exe
+E:\github\CSharpPrimeFinder\PrimeFinder\PrimeFinder\obj\x86\Debug\PrimeFinder.pdb

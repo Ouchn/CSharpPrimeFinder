@@ -59,22 +59,22 @@ class Primer
         }
     }
 
-    static bool IsPrime(int testifprime)
+    static bool IsPrime(int number)
     {
         int test;
-        test = testifprime - 1;
-        while (test != 1)
+        test = number - 1;
+        while (test > 1)
         {
 
             //test vars
-            float result = testifprime % test;
+            float result = number % test;
 
             //Return False
             if (result == 0)
             {
                 return false;
             }
-            test = test - 1;
+            test -= 1;
         }
         return true;
     }
