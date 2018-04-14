@@ -1,0 +1,5 @@
+/Users/Shuker/Documents/TestCSProject/TestCS/bin/Debug/TestCS.exe
+/Users/Shuker/Documents/TestCSProject/TestCS/bin/Debug/TestCS.pdb
+/Users/Shuker/Documents/TestCSProject/TestCS/obj/x86/Debug/TestCS.csproj.CoreCompileInputs.cache
+/Users/Shuker/Documents/TestCSProject/TestCS/obj/x86/Debug/TestCS.exe
+/Users/Shuker/Documents/TestCSProject/TestCS/obj/x86/Debug/TestCS.pdb
