@@ -8,7 +8,7 @@ class Primer
         //choose mode
         while (true)
         {
-            Console.WriteLine("Enter Mode");
+            Console.WriteLine("Enter Mode (single, range, end)");
             string runtype = Console.ReadLine();
             if (runtype == "single")
             {
@@ -28,7 +28,7 @@ class Primer
     static void SingleInput()
     {
         Console.WriteLine("Input Int");
-        int input = Convert.ToInt32(Console.ReadLine());
+        int input = ReadInt();
 
         if (IsPrime(input))
         {
@@ -45,9 +45,9 @@ class Primer
 
         //inputs
         Console.WriteLine("Enter start int");
-        int start = Convert.ToInt32(Console.ReadLine());
+        int start = ReadInt();
         Console.WriteLine("Enter end int");
-        int end = Convert.ToInt32(Console.ReadLine());
+        int end = ReadInt();
 
         //loop
         for (int counter = start; counter <= end; counter++)
@@ -77,5 +77,23 @@ class Primer
             test -= 1;
         }
         return true;
+    }
+    static int ReadInt()
+    {
+        int x = 0;
+        bool y = false;
+        while (!y)
+        {
+            try
+            {
+                x = int.Parse(Console.ReadLine());
+                y = true;
+            }
+            catch
+            {
+                Console.WriteLine("Error: Please try again.");
+            }
+        }
+        return x;
     }
 }
